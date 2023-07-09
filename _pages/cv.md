@@ -11,22 +11,27 @@ redirect_from:
 
 Education
 ======
-* Licence de Physique (Bachelor in Physics), Université Paris-Saclay, France, 2017-2020
-* Magistère de Physique Fondamentale (Master in Fundamental Physics), Université Paris-Saclay, France, 2019-2022
-* Master in Astronomy & Astrophysics, Observatoire de Paris, France, 2021-2022
-* PhD in Astronomy, Western University, Canada, since 2022
+* Licence de Physique (Bachelor in Physics), *Université Paris-Saclay, France, 2017-2020*
+* Magistère de Physique Fondamentale (Master in Fundamental Physics), *Université Paris-Saclay, France, 2019-2022*
+* Master in Astronomy & Astrophysics, *Observatoire de Paris, France, 2021-2022*
+* PhD in Astronomy, *Western University, Canada, since 2022*
 
 Research experience
 ======
-* March-June 2022: Research Student at Queen's University, Kingston, Ontario, Canada
-  * Topic: Modelling the Kinematics of Ultra Diffuse Galaxies
-  * Supervisor: Kristine Spekkens
-  * Abstract: I used the atomic gas distributions of galaxies to probe their dark matter distributions as a test of cosmological models. My focus was on Ultra Diffuse Galaxies, because some of them seem to be empty of dark matter, according to a recent claim. My work consisted in developing mock datasets with an expert software developer, in which the underlying structure of Ultra Diffuse Galaxies is known, and then carry out an analysis similar to that performed in the literature to determine the reliability with which that structure can be recovered. A particular focus of my work has been on the reliability of the recovered gas velocity dispersion, an analysis which has never been carried out before then.
+* **March-June 2022:** Research Student at Queen's University, Kingston, Ontario, Canada
+  * **Topic:** Modelling the Kinematics of Ultra Diffuse Galaxies
+  * **Supervisor:** Kristine Spekkens
+  * **Abstract:** I used the atomic gas distributions of galaxies to probe their dark matter distributions as a test of cosmological models. My focus was on Ultra Diffuse Galaxies, because some of them seem to be empty of dark matter, according to a recent claim. My work consisted in developing mock datasets with an expert software developer, in which the underlying structure of Ultra Diffuse Galaxies is known, and then carry out an analysis similar to that performed in the literature to determine the reliability with which that structure can be recovered. A particular focus of my work has been on the reliability of the recovered gas velocity dispersion, an analysis which has never been carried out before then.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **May-July 2021:** Research Student at McMaster University, Hamilton, Ontario, Canada
+  * **Topic:** Galaxy Evolution in Dense Environments
+  * **Supervisor:** Laura Parker
+  * **Abstract:** I worked with large catalogs of data from the Sloan Digital Sky Survey (SDSS) and the Arecibo Legacy Fast ALFA (ALFALFA) survey to study the properties of galaxies undergoing quenching or rejuvenation of their star formation in galaxy clusters. I was interested in understanding how the fraction of these galaxies depends on how long they have been in the cluster environment.
+ 
+* **June-August 2020:** Research Student at ESPCI, Paris, France
+  * **Topic:** Statistical self-organization of walking drops
+  * **Supervisor:** Matthieu Labousse
+  * **Abstract:** The main objective was to study the self-organization phenomena of several walking drops in a simulation. The dynamics of one particle has triggered many investigations and has resulted in spectacular experimental results in the last decade. However, very little was known about multiple drops evolving freely together. With my supervisor Matthieu Labousse, we studied those systems and we showed that there was indeed some self-organization, and an interest for experimental realisations. Since the end of my research internship in August 2020, I conducted extra research with my supervisor on my free time. The result of our work is available in the paper "", published in April 2023.
   
 Skills
 ======
