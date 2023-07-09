@@ -15,7 +15,7 @@ Education
 * Magistère de Physique Fondamentale (Master in Fundamental Physics), *Université Paris-Saclay, France, 2019-2022*
 * Master in Astronomy & Astrophysics, *Observatoire de Paris, France, 2021-2022*
 * PhD in Astronomy, *Western University, Canada, since 2022*
-   * <font size="3"> *Supervisors: Pauline Barmby, Sarah Gallagher* </font>
+   * *<font size="3"> Supervisors: Pauline Barmby, Sarah Gallagher </font>*
 
 Research experience
 ======
@@ -42,13 +42,12 @@ Publications
   
 Leadership & Volunteering Roles
 ======
-* Executive role of French Translator of the CASCA Graduate Student Committee (2023-2024)
+* French Translator of the CASCA Graduate Student Committee (2023-2024)
 * Graduate Representative at the Equity, Diversity, Inclusivity & Decolonization Committee of the Physics & Astronomy Department at Western University (2022-2023)
 * Volunteer for Public Nights at Cronyn Observatory, Western University (Summer 2023)
 * Graphic designer of the astronomy association ALCOR at Université Paris-Saclay, France (2021)
   
-Teaching
+Teaching Experiences (Western University)
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* **Fall 2022:** Physics 1401 (tutorials) and 1st year Physics Labs (1201 & 1401)
+* **Winter 2023:** Linear Algebra with Numerical Analysis for Engineering (tutorials)
