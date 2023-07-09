@@ -15,9 +15,7 @@ Education
 * Magistère de Physique Fondamentale (Master in Fundamental Physics), *Université Paris-Saclay, France, 2019-2022*
 * Master in Astronomy & Astrophysics, *Observatoire de Paris, France, 2021-2022*
 * PhD in Astronomy, *Western University, Canada, since 2022*
-<span style="font-size:8px">
-     :   *Supervisors: Pauline Barmby, Sarah Gallagher*
-</span>
+<font size="2">:   *Supervisors: Pauline Barmby, Sarah Gallagher* </font>
 
 Research experience
 ======
@@ -38,23 +36,16 @@ Research experience
 
 Publications
 ======
-[Statistical self-organization of an assembly of interacting walking drops in a confining potential](https://link.springer.com/article/10.1140/epje/s10189-023-00288-5)
-
+[Statistical self-organization of an assembly of interacting walking drops in a confining potential](https://link.springer.com/article/10.1140/epje/s10189-023-00288-5)  
 *Adrien Hélias, Matthieu Labousse,*
 ***European Physical Journal E***, 14 April 2023
   
-Talks
+Leadership Roles
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* 
   
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
