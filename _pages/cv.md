@@ -16,7 +16,7 @@ Education
 * Master in Astronomy & Astrophysics, *Observatoire de Paris, France, 2021-2022*
 * PhD in Astronomy, *Western University, Canada, since 2022*
 <span style="font-size:12px">
-    :   *Supervisors: Pauline Barmby, Sarah Gallagher*
+     :   *Supervisors: Pauline Barmby, Sarah Gallagher*
 </span>
 
 Research experience
