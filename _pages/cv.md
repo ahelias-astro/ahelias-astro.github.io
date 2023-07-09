@@ -36,9 +36,9 @@ Research experience
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+[Statistical self-organization of an assembly of interacting walking drops in a confining potential](https://link.springer.com/article/10.1140/epje/s10189-023-00288-5)
+*Adrien Hélias, Matthieu Labousse*
+***European Physical Journal E***, 14 April 2023
   
 Talks
 ======
