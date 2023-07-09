@@ -15,7 +15,7 @@ Education
 * Magistère de Physique Fondamentale (Master in Fundamental Physics), *Université Paris-Saclay, France, 2019-2022*
 * Master in Astronomy & Astrophysics, *Observatoire de Paris, France, 2021-2022*
 * PhD in Astronomy, *Western University, Canada, since 2022*
-<font size="2">:   *Supervisors: Pauline Barmby, Sarah Gallagher* </font>
+<font size="2">      : *Supervisors: Pauline Barmby, Sarah Gallagher* </font>
 
 Research experience
 ======
