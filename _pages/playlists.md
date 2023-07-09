@@ -9,7 +9,7 @@ In my spare time, I am also a passionate playlist maker, and I love sharing the 
 
 ## Canadian Spirit
 
-<iframe align="left" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6xEAWxq6QiceaC0HQgVVtf?utm_source=generator&theme=1" width="70%" height="425" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>  
+<iframe align="left" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6xEAWxq6QiceaC0HQgVVtf?utm_source=generator&theme=2" width="70%" height="425" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>  
 
 <font align="left" color=white>____________________________________________________________________________________________________________</font>  
 
