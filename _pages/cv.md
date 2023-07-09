@@ -31,16 +31,7 @@ Research experience
 * **June-August 2020:** Research Student at ESPCI, Paris, France
   * **Topic:** Statistical self-organization of walking drops
   * **Supervisor:** Matthieu Labousse
-  * **Abstract:** The main objective was to study the self-organization phenomena of several walking drops in a simulation. The dynamics of one particle has triggered many investigations and has resulted in spectacular experimental results in the last decade. However, very little was known about multiple drops evolving freely together. With my supervisor Matthieu Labousse, we studied those systems and we showed that there was indeed some self-organization, and an interest for experimental realisations. Since the end of my research internship in August 2020, I conducted extra research with my supervisor on my free time. The result of our work is available in the paper "", published in April 2023.
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+  * **Abstract:** The main objective was to study the self-organization phenomena of several walking drops in a simulation. The dynamics of one particle has triggered many investigations and has resulted in spectacular experimental results in the last decade. However, very little was known about multiple drops evolving freely together. With my supervisor Matthieu Labousse, we studied those systems and we showed that there was indeed some self-organization, and an interest for experimental realisations. Since the end of my research internship in August 2020, I conducted extra research with my supervisor on my free time. The result of our work is available in the paper "[Statistical self-organization of an assembly of interacting walking drops in a confining potential](https://link.springer.com/article/10.1140/epje/s10189-023-00288-5)", published in April 2023.
 
 Publications
 ======
