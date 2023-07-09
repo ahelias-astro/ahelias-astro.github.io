@@ -37,12 +37,15 @@ Research experience
 Publications
 ======
 [Statistical self-organization of an assembly of interacting walking drops in a confining potential](https://link.springer.com/article/10.1140/epje/s10189-023-00288-5)  
-*Adrien Hélias, Matthieu Labousse,*
+*Adrien Hélias, Matthieu Labousse*  
 ***European Physical Journal E***, 14 April 2023
   
-Leadership Roles
+Leadership & Volunteering Roles
 ======
-* 
+* Executive role of French Translator of the CASCA Graduate Student Committee (2023-2024)
+* Graduate Representative at the Equity, Diversity, Inclusivity & Decolonization Committee of the Physics & Astronomy Department at Western University (2022-2023)
+* Volunteer for Public Nights at Cronyn Observatory, Western University (Summer 2023)
+* Graphic designer of the astronomy association ALCOR at Université Paris-Saclay, France (2021)
   
 Teaching
 ======
