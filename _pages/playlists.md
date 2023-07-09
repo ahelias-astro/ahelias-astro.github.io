@@ -11,7 +11,7 @@ In my spare time, I am also a passionate playlist maker, and I love sharing the 
 
 <iframe align="left" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6xEAWxq6QiceaC0HQgVVtf&theme=red" width="70%" height="425" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>  
 
-<font color=white>______________________________________</font>  
+<font align="left" color=white>______________________________________</font>  
 
 ## Dawn Over The Mountain
 
