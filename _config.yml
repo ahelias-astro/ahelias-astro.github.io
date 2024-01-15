@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Extragalactic Astronomy | Adrien Hélias"
 title_separator          : "-"
 name                     : &name "Adrien Hélias"
-description              : &description "1st year PhD student in Astronomy at the University of Western Ontario"
+description              : &description "2nd year PhD student in Astronomy at the University of Western Ontario"
 url                      : https://ahelias-astro.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ahelias-astro/ahelias-astro.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Adrien Hélias"
   avatar           : "penticton_redux.jpg"
-  bio              : "PhD student in Astronomy at the University of Western Ontario. I love cooking, learning, playing board games, transmitting my passions to others and making curated music playlists."
+  bio              : "PhD student in Astronomy at the University of Western Ontario. I love cooking, doing graphic design, playing board games, transmitting my passion to others and making curated music playlists."
   location         : "London, Ontario, Canada"
   employer         :
   pubmed           : 
