@@ -37,7 +37,8 @@ Research experience
 Publications
 ======
 [TONGS: A Treasury of Nearby Galaxy Surveys](https://iopscience.iop.org/article/10.1088/1538-3873/ad26a1)
-*Hannah S. Christie, Adrien Hélias, Matheus do Carmo Carvalho, and Pauline Barmby*
+
+*Hannah S. Christie, Adrien Hélias, Matheus do Carmo Carvalho, Pauline Barmby*
 ***Publications of the Astronomical Society of the Pacific***, 19 March 2024
 
 [Statistical self-organization of an assembly of interacting walking drops in a confining potential](https://link.springer.com/article/10.1140/epje/s10189-023-00288-5)  
