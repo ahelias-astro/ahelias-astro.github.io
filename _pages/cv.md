@@ -42,6 +42,7 @@ Publications
   
 Leadership & Volunteering Roles
 ======
+* Chair of the CASCA Graduate Student Committee (2024-2025)
 * Outreach Assistant at the Cronyn Observatory, Western University (2023-2024)
 * French Translator of the CASCA Graduate Student Committee (2023-2024)
 * Volunteer for Public Nights at Cronyn Observatory, Western University (Summer 2023)
