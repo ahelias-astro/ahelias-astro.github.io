@@ -3630,6 +3630,7 @@ input, select, textarea {
 
 		#banner p {
 			letter-spacing: 0.075em;
+			font-size: 1.5em;
 			/*text-transform: uppercase;*/
 		}
 
