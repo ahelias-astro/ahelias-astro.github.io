@@ -3629,8 +3629,8 @@ input, select, textarea {
 			}
 
 		#banner p {
-			letter-spacing: 0.075em;
-			font-size: 1em;
+			letter-spacing: 0.1em;
+			font-size: 1.25em;
 			/*text-transform: uppercase;*/
 		}
 
